@@ -1,16 +1,10 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-client/node_modules
+
 server/node_modules
-
+client/node_modules
 server/.env
-
-# Remove these lines to allow tracking of public and src directories
-# /client/public
-# /client/src
-
-/node_modules
 /.pnp
 .pnp.js
 
